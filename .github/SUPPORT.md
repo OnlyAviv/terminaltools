@@ -2,6 +2,6 @@
 
 Check out [Contributing.md](CONTRIBUTING.md)
 
-Just need some support? [Email me](mailto:hello@onlyaviv.com?subject=Terminal%20Tools)
+Just need some support? [Email me](terminaltools@aviv.sh)
 
 Just browsing? [Check out the website](https://tt.js.org)
