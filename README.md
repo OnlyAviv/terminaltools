@@ -81,12 +81,12 @@ _For API usage, and more specific examples, refer to the [API](https://tt.js.org
 
 ## Contributing
 
-To help with the development of TerminalTools, you can contribute to the project by submitting issues, pull requests, or shooting me an email at [RedYetiDev@gmail.com](mailto:redyetidev@gmail.com).
+To help with the development of TerminalTools, you can contribute to the project by submitting issues, pull requests, or shooting me an email at [hello@onlyaviv.com](mailto:hello@onlyaviv.com).
 
 ## License
 
-TerminalTools is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. This means that you can use TerminalTools in any way you want, as long as you give credit to me, the original author ([RedYetiDev](https://redyetidev.github.io)).
+TerminalTools is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. This means that you can use TerminalTools in any way you want, as long as you give credit to me, the original author ([Aviv Keller](https://onlyaviv.com)).
 
 > **What is "as long as you give credit to me"?**
 >
-> Giving credit is showing that you used TerminalTools in your project. This can be done by linking to the [GitHub repository](https://github.com/RedYetiDev/terminaltools), or by linking to the [npm package](https://www.npmjs.com/package/terminaltools).
+> Giving credit is showing that you used TerminalTools in your project. This can be done by linking to the [GitHub repository](https://github.com/OnlyAviv/terminaltools), or by linking to the [npm package](https://www.npmjs.com/package/terminaltools).
