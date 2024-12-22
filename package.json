@@ -5,7 +5,7 @@
   "main": "tools.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/redyetidev/terminaltools"
+    "url": "https://github.com/onlyaviv/terminaltools"
   },
   "keywords": [
     "image",
@@ -46,10 +46,10 @@
     "Matrix",
     "Banner"
   ],
-  "author": "RedYetiDev <RedYetiDev@gmail.com> (https://redyetidev.github.io)",
+  "author": "Aviv Keller <hello@onlyaviv.com> (https://onlyaviv.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redyetidev/terminaltools/issues"
+    "url": "https://github.com/onlyaviv/terminaltools/issues"
   },
   "homepage": "https://tt.js.org",
   "dependencies": {
